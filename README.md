@@ -6,25 +6,25 @@ Aidermacare is a mobile application developed using React Native (Expo) to provi
 
 ## 🚀 How to Run the Project
 
-1. Clone the repository:
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/Kavya19112004/aidermacare.git
 ```
 
-2. Navigate to the mobile folder:
+### 2. Navigate to the mobile folder
 
 ```bash
 cd mobile
 ```
 
-3. Install dependencies:
+### 3. Install dependencies
 
 ```bash
 npm install
 ```
 
-4. Start the application:
+### 4. Start the application
 
 ```bash
 npx expo start
